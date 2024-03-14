@@ -1,0 +1,30 @@
+syntax = "proto3";
+
+option csharp_namespace = "WordServer";
+
+// Definition of the gRPC service for WordServer.
+service DailyWord {
+    // RPC to get a 5-letter English word from the file wordle.json.
+    rpc GetWord(Empty) returns (WordResponse) {}
+
+    // RPC to validate if a word exists in the file wordle.json.
+    rpc ValidateWord(WordRequest) returns (ValidateResponse) {}
+}
+
+// Message to represent an empty request.
+message Empty {}
+
+// Message to represent a word request.
+message WordRequest {
+    string word = 1;
+}
+
+// Message to represent a word response.
+message WordResponse {
+    string word = 1;
+}
+
+// Message to represent a validation response.
+message ValidateResponse {
+    bool is_valid = 1;
+}
