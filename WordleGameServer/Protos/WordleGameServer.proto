@@ -1,0 +1,26 @@
+syntax = "proto3";
+
+option csharp_namespace = "WordleGameServer";
+
+// Definition of the gRPC service for WordleGameServer.
+service WordleGameServer {
+    rpc Play(stream GuessRequest) returns (stream GuessResponse);
+    rpc GetStats(Empty) returns (StatsResponse);
+}
+
+message Empty {}
+
+message GuessRequest {
+    string guess = 1;
+}
+
+message GuessResponse {
+    bool is_correct = 1;
+    repeated string correct_letters = 2;
+}
+
+message StatsResponse {
+    int32 total_players = 1;
+    float win_percentage = 2;
+    map<int32, int32> guess_distribution = 3;
+}

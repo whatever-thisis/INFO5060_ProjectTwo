@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleGameServer", "WordleGameServer\WordleGameServer.csproj", "{FEBD711C-689C-4473-BD07-9AC51972C0F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordleGameClient", "WordleGameClient\WordleGameClient.csproj", "{F8F32F7F-4180-417E-9106-255382950E95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleGameClient", "WordleGameClient\WordleGameClient.csproj", "{F8F32F7F-4180-417E-9106-255382950E95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordServer", "WordServer\WordServer.csproj", "{829BCFCC-D45B-4D87-8BD7-2A0847649464}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordServer", "WordServer\WordServer.csproj", "{829BCFCC-D45B-4D87-8BD7-2A0847649464}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordleGameServer", "WordleGameServer\WordleGameServer.csproj", "{7A3C3D0F-2DCF-4DAA-AF03-28A3F44399E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FEBD711C-689C-4473-BD07-9AC51972C0F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FEBD711C-689C-4473-BD07-9AC51972C0F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FEBD711C-689C-4473-BD07-9AC51972C0F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FEBD711C-689C-4473-BD07-9AC51972C0F6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{F8F32F7F-4180-417E-9106-255382950E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{F8F32F7F-4180-417E-9106-255382950E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8F32F7F-4180-417E-9106-255382950E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -27,6 +23,10 @@ Global
 		{829BCFCC-D45B-4D87-8BD7-2A0847649464}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{829BCFCC-D45B-4D87-8BD7-2A0847649464}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{829BCFCC-D45B-4D87-8BD7-2A0847649464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A3C3D0F-2DCF-4DAA-AF03-28A3F44399E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3C3D0F-2DCF-4DAA-AF03-28A3F44399E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3C3D0F-2DCF-4DAA-AF03-28A3F44399E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3C3D0F-2DCF-4DAA-AF03-28A3F44399E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

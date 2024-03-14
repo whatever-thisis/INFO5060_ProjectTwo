@@ -19,3 +19,24 @@ C:\D\School\5thSem\Component-based Programming with .NET\Projects\Project2\Wordl
 C:\D\School\5thSem\Component-based Programming with .NET\Projects\Project2\WordleGameClient\obj\Debug\net7.0\WordleGameClient.pdb
 C:\D\School\5thSem\Component-based Programming with .NET\Projects\Project2\WordleGameClient\obj\Debug\net7.0\WordleGameClient.genruntimeconfig.cache
 C:\D\School\5thSem\Component-based Programming with .NET\Projects\Project2\WordleGameClient\obj\Debug\net7.0\ref\WordleGameClient.dll
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\bin\Debug\net7.0\WordleGameClient.exe
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\bin\Debug\net7.0\WordleGameClient.deps.json
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\bin\Debug\net7.0\WordleGameClient.runtimeconfig.json
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\bin\Debug\net7.0\WordleGameClient.dll
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\bin\Debug\net7.0\WordleGameClient.pdb
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\bin\Debug\net7.0\Grpc.Core.Api.dll
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\bin\Debug\net7.0\Grpc.Net.Client.dll
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\bin\Debug\net7.0\Grpc.Net.Common.dll
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\obj\Debug\net7.0\WordleGameClient.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\obj\Debug\net7.0\WordleGameClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\obj\Debug\net7.0\WordleGameClient.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\obj\Debug\net7.0\WordleGameClient.AssemblyInfo.cs
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\obj\Debug\net7.0\WordleGameClient.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\obj\Debug\net7.0\WordleGa.2CF6611F.Up2Date
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\obj\Debug\net7.0\WordleGameClient.dll
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\obj\Debug\net7.0\refint\WordleGameClient.dll
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\obj\Debug\net7.0\WordleGameClient.pdb
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\obj\Debug\net7.0\WordleGameClient.genruntimeconfig.cache
+C:\Users\PC\Desktop\Semester 5\INFO 5060- Component based\Project2\Project2\WordleGameClient\obj\Debug\net7.0\ref\WordleGameClient.dll
